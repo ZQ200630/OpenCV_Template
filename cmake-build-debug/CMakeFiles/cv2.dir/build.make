@@ -90,10 +90,10 @@ cv2_EXTERNAL_OBJECTS =
 
 cv2.exe: CMakeFiles/cv2.dir/main.cpp.obj
 cv2.exe: CMakeFiles/cv2.dir/build.make
-cv2.exe: E:\OpenCV\OpenCV-MinGW-Build-OpenCV-4.1.1-x64\OpenCV-MinGW-Build-OpenCV-4.1.1-x64\x64\mingw\lib\libopencv_core411.dll.a
-cv2.exe: E:\OpenCV\OpenCV-MinGW-Build-OpenCV-4.1.1-x64\OpenCV-MinGW-Build-OpenCV-4.1.1-x64\x64\mingw\lib\libopencv_highgui411.dll.a
-cv2.exe: E:\OpenCV\OpenCV-MinGW-Build-OpenCV-4.1.1-x64\OpenCV-MinGW-Build-OpenCV-4.1.1-x64\x64\mingw\lib\libopencv_highgui411.dll.a
-cv2.exe: E:\OpenCV\OpenCV-MinGW-Build-OpenCV-4.1.1-x64\OpenCV-MinGW-Build-OpenCV-4.1.1-x64\x64\mingw\lib\libopencv_imgcodecs411.dll.a
+cv2.exe: E:/OpenCV/OpenCV-MinGW-Build-OpenCV-4.1.1-x64/OpenCV-MinGW-Build-OpenCV-4.1.1-x64/x64/mingw/lib/libopencv_core411.dll.a
+cv2.exe: E:/OpenCV/OpenCV-MinGW-Build-OpenCV-4.1.1-x64/OpenCV-MinGW-Build-OpenCV-4.1.1-x64/x64/mingw/lib/libopencv_highgui411.dll.a
+cv2.exe: E:/OpenCV/OpenCV-MinGW-Build-OpenCV-4.1.1-x64/OpenCV-MinGW-Build-OpenCV-4.1.1-x64/x64/mingw/lib/libopencv_highgui411.dll.a
+cv2.exe: E:/OpenCV/OpenCV-MinGW-Build-OpenCV-4.1.1-x64/OpenCV-MinGW-Build-OpenCV-4.1.1-x64/x64/mingw/lib/libopencv_imgcodecs411.dll.a
 cv2.exe: CMakeFiles/cv2.dir/linklibs.rsp
 cv2.exe: CMakeFiles/cv2.dir/objects1.rsp
 cv2.exe: CMakeFiles/cv2.dir/link.txt
